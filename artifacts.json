@@ -1,7 +1,7 @@
 {
     "this-repository": "https://github.com/arjunsawhney1/artifact-directory-template",
     "project-repository": "https://github.com/arjunsawhney1/intel-capstone-project",
-    "dockerhub-repository": "",
+    "dockerhub-repository": "arjunsawhney1/intel-telemetry:latest",
     "project-website-url": "https://arjunsawhney1.github.io/intel-capstone-project",
     "project-website-code": "https://github.com/arjunsawhney1/intel-capstone-project/tree/gh-pages"
 }
